@@ -18,8 +18,10 @@ const Customers = () => {
                       <Image src="/assets/Frame 10.png" width={138} height={22} alt=" " />
                       <Image className="mt-4" src="/assets/Frame 31.png" width={110} height={24} alt=" " />
                       <p className="mt-4">
-                        "I'm blown away by the quality and style of the clothes I received from Shop.co. From casual wear to elegant dresses, every piece I've bought has exceeded my expectations."
-                      </p>
+  &quot;I&apos;m blown away by the quality and style of the clothes I received from Shop.co. From casual wear to elegant dresses, every piece I&apos;ve bought has exceeded my expectations.&quot;
+</p>
+
+
                     </div>
                   </div>
                 </div>
@@ -30,8 +32,8 @@ const Customers = () => {
                       <Image src="/assets/Frame 10.png" width={138} height={22} alt=" " />
                       <Image className="mt-4" src="/assets/Frame 31 (1).png" width={93} height={24} alt=" " />
                       <p className="mt-4">
-                        "Finding clothes that align with my personal style used to be a challenge until I discovered Shop.co. The range of options they offer is truly remarkable, catering to a variety of tastes and occasions."
-                      </p>
+  &quot;Finding clothes that align with my personal style used to be a challenge until I discovered Shop.co. The range of options they offer is truly remarkable, catering to a variety of tastes and occasions.&quot;
+</p>
                     </div>
                   </div>
                 </div>
@@ -42,8 +44,8 @@ const Customers = () => {
                       <Image src="/assets/Frame 10.png" width={138} height={22} alt=" " />
                       <Image className="mt-4" src="/assets/Frame 31 (2).png" width={110} height={24} alt=" " />
                       <p className="mt-4">
-                        "As someone who's always on the lookout for unique fashion pieces, I'm thrilled to have stumbled upon Shop.co. The selection of clothes is not only diverse but also on-point with the latest trends."
-                      </p>
+  &quot;As someone who&apos;s always on the lookout for unique fashion pieces, I&apos;m thrilled to have stumbled upon Shop.co. The selection of clothes is not only diverse but also on-point with the latest trends.&quot;
+</p>
                     </div>
                   </div>
                 </div>
